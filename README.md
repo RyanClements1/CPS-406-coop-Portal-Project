@@ -136,14 +136,6 @@ This is a **course prototype**, not a production co-op management system.
 - PDF uploads are stored locally, and the application does not include cloud storage or an administrative file viewer.
 - The interface uses a basic desktop layout rather than a web or mobile client.
 
-## Possible Improvements
-
-- Add secure password hashing, stronger authentication, and role authorization checks.
-- Implement real email notifications for missing submissions and application updates.
-- Add report/evaluation review and download tools for coordinators.
-- Improve submission tracking by work term and deadline.
-- Add automated tests and more robust validation and error handling.
-
 ## Project Context
 
 Developed as a team project for **CPS 406 (Software Engineering)** at Toronto Metropolitan University.
